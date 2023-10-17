@@ -9,10 +9,13 @@ cd guiapp
 python3 app.py
   ```
 ### Notebook uygulaması 
+Eğer cihazınınızdan açmak istiyorsanız aşağıdaki şekilde çalıştırabilirsiniz
  ```
 jupyter notebook hesaplamalar.ipynb 
  ```
 ## Hesaplamaların bulunduğı notebook
+
+
 https://colab.research.google.com/drive/10oKY4DeguVc50lnvlmxQ7R0yiuQ9eVhK?usp=sharing
 ## KLASÖR YAPISI
 
