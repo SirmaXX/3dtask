@@ -1,25 +1,16 @@
 # 3D Modeling Software Developer İş görevi
 
 ## Nasıl çalışır
-İlk olarak hesaplamarı ayrı çalıştırabileceğiniz ve uygulama olarak ayrı bir Qt6 ile arayüz oluşturdum.
+Ekran kartım olmadığı için matplotlib ve python ile nesneyi render etsem dahi stl formuna getiremiyordum bu sebeple jupyter notebook kullandım.
 
-### Gui uygulaması 
- ```
-cd guiapp
-python3 app.py
-  ```
+
 ### Notebook uygulaması 
 Eğer cihazınınızdan açmak istiyorsanız aşağıdaki şekilde çalıştırabilirsiniz
  ```
-jupyter notebook hesaplamalar.ipynb 
+jupyter notebook 3dhesaplamalar.ipynb 
  ```
 ## Hesaplamaların bulunduğı notebook
 
 
 https://colab.research.google.com/drive/10oKY4DeguVc50lnvlmxQ7R0yiuQ9eVhK?usp=sharing
-## KLASÖR YAPISI
-
-1. guiapp klasörü
-    * app.py
-2. hesaplamalar.ipynb
 
